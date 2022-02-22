@@ -1,4 +1,4 @@
-package com.epam.training.student_iulia_iasoveeva.fundamentals;
+package com.epam.training.student_iulia_iasoveeva.fundamentals.main_task;
 
 import java.util.Objects;
 import java.util.Random;
