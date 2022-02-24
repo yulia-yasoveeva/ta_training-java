@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class ReverseArgs {
     public static void main(String[] args) {
-        String arg, arg1, arg2;
+        String arg;
+        String arg1;
+        String arg2;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter first argument: ");
         arg = scanner.nextLine();

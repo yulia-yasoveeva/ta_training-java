@@ -32,16 +32,24 @@ public class SortedLength {
                 elementMax = i;
             }
         }
-        System.out.println("Sorted array in ascending order: ");
-        for (int i = size[elementMin]; i <= size[elementMax]; i++) {
+        printAscending(array, size, elementMin, elementMax);
+        printDescending(array, size, elementMin, elementMax);
+    }
+
+    private static void printDescending(int[] array, int[] size, int elementMin, int elementMax) {
+        System.out.println("Sorted array in descending order: ");
+        for (int i = size[elementMax]; i >= size[elementMin]; i--) {
             for (int j = 0; j < size.length; j++) {
                 if (size[j] == i) {
                     System.out.println(array[j]);
                 }
             }
         }
-        System.out.println("Sorted array in descending order: ");
-        for (int i = size[elementMax]; i >= size[elementMin]; i--) {
+    }
+
+    private static void printAscending(int[] array, int[] size, int elementMin, int elementMax) {
+        System.out.println("Sorted array in ascending order: ");
+        for (int i = size[elementMin]; i <= size[elementMax]; i++) {
             for (int j = 0; j < size.length; j++) {
                 if (size[j] == i) {
                     System.out.println(array[j]);

@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class SumInt {
     public static void main(String[] args) {
-        int arg, arg1;
+        int arg;
+        int arg1;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter first integer: ");
         arg = scanner.nextInt();
