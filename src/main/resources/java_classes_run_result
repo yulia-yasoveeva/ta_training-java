@@ -1,0 +1,79 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=52446:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\at\ta_training-java\target\classes;C:\Users\Yulia\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\Yulia\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Yulia\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\Yulia\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\Yulia\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar com.epam.training.student_iulia_iasoveeva.java_classes.main_task.Runner
+Task a
+--------------------------------
+Student{studentId=3, name='Marilu', lastName='Kiehn', dateOfBirth=Fri Apr 24 21:37:11 CET 1970, faculty='Slytherin', course=4, group=2095}
+Student{studentId=12, name='Dylan', lastName='Bruen', dateOfBirth=Thu Mar 13 19:17:09 CET 1975, faculty='Slytherin', course=4, group=2096}
+Student{studentId=16, name='Adan', lastName='O'Keefe', dateOfBirth=Sun Jun 24 18:03:24 CEST 1990, faculty='Slytherin', course=4, group=2096}
+Student{studentId=19, name='Glinda', lastName='Shields', dateOfBirth=Tue Jul 23 09:26:11 CET 1968, faculty='Slytherin', course=5, group=2095}
+Student{studentId=36, name='Barabara', lastName='Bergnaum', dateOfBirth=Fri Sep 30 09:07:44 CET 1977, faculty='Slytherin', course=2, group=2093}
+Student{studentId=48, name='Jesse', lastName='Boyer', dateOfBirth=Sun Sep 01 11:07:02 CEST 1957, faculty='Slytherin', course=5, group=2090}
+Student{studentId=79, name='Jarod', lastName='Volkman', dateOfBirth=Sun Sep 15 20:12:46 CEST 1991, faculty='Slytherin', course=3, group=2093}
+Student{studentId=80, name='Freeman', lastName='Harris', dateOfBirth=Sat Jan 26 19:21:04 CET 1985, faculty='Slytherin', course=5, group=2095}
+Student{studentId=83, name='Chantel', lastName='Mohr', dateOfBirth=Thu Jan 03 12:31:02 CET 1980, faculty='Slytherin', course=3, group=2096}
+Student{studentId=86, name='Effie', lastName='Keebler', dateOfBirth=Sun May 31 00:02:23 CET 1959, faculty='Slytherin', course=3, group=2092}
+Student{studentId=90, name='Rafaela', lastName='Brekke', dateOfBirth=Fri Sep 11 11:01:04 CET 1964, faculty='Slytherin', course=2, group=2091}
+Student{studentId=100, name='An', lastName='Moen', dateOfBirth=Mon Sep 12 03:19:22 CET 1960, faculty='Slytherin', course=5, group=2091}
+Student{studentId=103, name='Roseanna', lastName='Hilll', dateOfBirth=Tue Apr 04 17:55:55 CET 1961, faculty='Slytherin', course=1, group=2092}
+Student{studentId=111, name='Man', lastName='Beier', dateOfBirth=Wed Dec 11 13:15:57 CET 2002, faculty='Slytherin', course=5, group=2096}
+Student{studentId=114, name='Niki', lastName='Johnston', dateOfBirth=Wed Nov 05 07:08:44 CET 1958, faculty='Slytherin', course=4, group=2094}
+Student{studentId=129, name='Harland', lastName='Fritsch', dateOfBirth=Thu Mar 04 15:52:41 CET 1965, faculty='Slytherin', course=5, group=2093}
+Student{studentId=135, name='Larue', lastName='Windler', dateOfBirth=Mon Apr 24 03:27:48 CET 1961, faculty='Slytherin', course=2, group=2092}
+Student{studentId=142, name='Sebrina', lastName='Jacobi', dateOfBirth=Mon Jun 25 20:59:33 CET 1973, faculty='Slytherin', course=3, group=2093}
+Student{studentId=166, name='Olen', lastName='Hyatt', dateOfBirth=Mon Mar 16 13:12:07 CET 1987, faculty='Slytherin', course=3, group=2091}
+Student{studentId=167, name='Dexter', lastName='Sauer', dateOfBirth=Tue May 25 18:08:36 CEST 1993, faculty='Slytherin', course=4, group=2092}
+Student{studentId=190, name='Josiah', lastName='Sawayn', dateOfBirth=Mon Sep 30 12:56:35 CET 1985, faculty='Slytherin', course=4, group=2091}
+Student{studentId=194, name='Del', lastName='Bergnaum', dateOfBirth=Fri Nov 08 19:28:32 CET 1957, faculty='Slytherin', course=2, group=2092}
+--------------------------------
+Task b
+--------------------------------
+Student{studentId=27, name='Thurman', lastName='Powlowski', dateOfBirth=Thu May 04 16:20:07 CET 1967, faculty='Gryffindor', course=2, group=2093}
+Student{studentId=34, name='Vaughn', lastName='Balistreri', dateOfBirth=Sat Dec 27 21:05:37 CET 1986, faculty='Gryffindor', course=2, group=2095}
+Student{studentId=71, name='Ervin', lastName='Frami', dateOfBirth=Sat Apr 18 22:42:55 CEST 1981, faculty='Gryffindor', course=2, group=2090}
+Student{studentId=144, name='Omar', lastName='Kreiger', dateOfBirth=Tue Jan 09 15:29:29 CET 1962, faculty='Gryffindor', course=2, group=2092}
+Student{studentId=176, name='Sharla', lastName='Sporer', dateOfBirth=Thu Jul 16 01:21:57 CEST 1981, faculty='Gryffindor', course=2, group=2091}
+Student{studentId=181, name='Shannon', lastName='Trantow', dateOfBirth=Mon Sep 21 19:14:34 CET 1970, faculty='Gryffindor', course=2, group=2091}
+Student{studentId=187, name='Marcia', lastName='Gulgowski', dateOfBirth=Fri Sep 14 12:09:00 CEST 2001, faculty='Gryffindor', course=2, group=2091}
+Student{studentId=193, name='Stanley', lastName='Reichert', dateOfBirth=Wed Mar 03 08:09:01 CET 1999, faculty='Gryffindor', course=2, group=2096}
+--------------------------------
+Task c
+--------------------------------
+Student{studentId=69, name='Pansy', lastName='Luettgen', dateOfBirth=Thu Jul 18 11:17:37 CEST 2002, faculty='Hufflepuff', course=1, group=2092}
+Student{studentId=92, name='Rick', lastName='Parker', dateOfBirth=Thu Aug 22 12:32:55 CEST 2002, faculty='Hufflepuff', course=5, group=2094}
+Student{studentId=111, name='Man', lastName='Beier', dateOfBirth=Wed Dec 11 13:15:57 CET 2002, faculty='Slytherin', course=5, group=2096}
+Student{studentId=124, name='Kenny', lastName='Fadel', dateOfBirth=Sun Nov 23 22:28:05 CET 2003, faculty='Thunderbird', course=2, group=2093}
+Student{studentId=143, name='Iliana', lastName='Hamill', dateOfBirth=Tue Jul 08 12:56:48 CEST 2003, faculty='Horned Serpent', course=4, group=2090}
+Student{studentId=153, name='Wai', lastName='Boyer', dateOfBirth=Sat May 11 20:53:51 CEST 2002, faculty='Thunderbird', course=5, group=2093}
+--------------------------------
+Task d
+--------------------------------
+Student{studentId=6, name='Brant', lastName='Douglas', dateOfBirth=Sun Mar 08 16:56:49 CET 1981, faculty='Thunderbird', course=3, group=2093}
+Student{studentId=11, name='Ezekiel', lastName='Schimmel', dateOfBirth=Sat Dec 09 01:56:40 CET 1995, faculty='Hufflepuff', course=1, group=2093}
+Student{studentId=22, name='Delmar', lastName='Koelpin', dateOfBirth=Sat Jul 25 21:15:53 CEST 1981, faculty='Ravenclaw', course=4, group=2093}
+Student{studentId=27, name='Thurman', lastName='Powlowski', dateOfBirth=Thu May 04 16:20:07 CET 1967, faculty='Gryffindor', course=2, group=2093}
+Student{studentId=33, name='Walton', lastName='Wilkinson', dateOfBirth=Fri Apr 30 05:18:00 CEST 1982, faculty='Horned Serpent', course=1, group=2093}
+Student{studentId=36, name='Barabara', lastName='Bergnaum', dateOfBirth=Fri Sep 30 09:07:44 CET 1977, faculty='Slytherin', course=2, group=2093}
+Student{studentId=42, name='Miles', lastName='Hartmann', dateOfBirth=Fri Nov 21 02:12:18 CET 1980, faculty='Hufflepuff', course=3, group=2093}
+Student{studentId=45, name='Rebeca', lastName='Miller', dateOfBirth=Sat Nov 18 11:23:40 CET 2000, faculty='Thunderbird', course=4, group=2093}
+Student{studentId=47, name='Ben', lastName='Dietrich', dateOfBirth=Mon Apr 15 13:24:50 CEST 1991, faculty='Wampus', course=3, group=2093}
+Student{studentId=60, name='Rolf', lastName='Lehner', dateOfBirth=Mon Oct 31 00:56:54 CET 1994, faculty='Gryffindor', course=1, group=2093}
+Student{studentId=63, name='Gay', lastName='Bradtke', dateOfBirth=Sun Sep 27 01:23:13 CEST 1987, faculty='Hufflepuff', course=4, group=2093}
+Student{studentId=79, name='Jarod', lastName='Volkman', dateOfBirth=Sun Sep 15 20:12:46 CEST 1991, faculty='Slytherin', course=3, group=2093}
+Student{studentId=84, name='Theo', lastName='Kihn', dateOfBirth=Wed Jan 03 01:27:15 CET 1968, faculty='Wampus', course=1, group=2093}
+Student{studentId=85, name='Elissa', lastName='Glover', dateOfBirth=Sun Apr 20 22:30:48 CET 1975, faculty='Wampus', course=2, group=2093}
+Student{studentId=102, name='Steven', lastName='Senger', dateOfBirth=Sat Feb 16 18:45:35 CET 1991, faculty='Wampus', course=3, group=2093}
+Student{studentId=104, name='Malia', lastName='Parker', dateOfBirth=Thu May 16 11:11:40 CET 1957, faculty='Pukwudgie', course=3, group=2093}
+Student{studentId=106, name='Marcos', lastName='O'Kon', dateOfBirth=Thu Aug 14 21:54:07 CET 1969, faculty='Horned Serpent', course=2, group=2093}
+Student{studentId=119, name='Robby', lastName='Rolfson', dateOfBirth=Sat Jul 03 01:41:17 CET 1965, faculty='Thunderbird', course=3, group=2093}
+Student{studentId=121, name='Sung', lastName='Kuhic', dateOfBirth=Tue Feb 09 12:26:49 CET 1971, faculty='Horned Serpent', course=3, group=2093}
+Student{studentId=124, name='Kenny', lastName='Fadel', dateOfBirth=Sun Nov 23 22:28:05 CET 2003, faculty='Thunderbird', course=2, group=2093}
+Student{studentId=129, name='Harland', lastName='Fritsch', dateOfBirth=Thu Mar 04 15:52:41 CET 1965, faculty='Slytherin', course=5, group=2093}
+Student{studentId=131, name='Julian', lastName='Padberg', dateOfBirth=Sat Nov 17 23:27:58 CET 1984, faculty='Wampus', course=2, group=2093}
+Student{studentId=138, name='Garfield', lastName='Cremin', dateOfBirth=Tue Jan 23 15:12:40 CET 1979, faculty='Pukwudgie', course=3, group=2093}
+Student{studentId=142, name='Sebrina', lastName='Jacobi', dateOfBirth=Mon Jun 25 20:59:33 CET 1973, faculty='Slytherin', course=3, group=2093}
+Student{studentId=146, name='Chloe', lastName='Kessler', dateOfBirth=Wed Dec 15 11:53:43 CET 1965, faculty='Pukwudgie', course=4, group=2093}
+Student{studentId=153, name='Wai', lastName='Boyer', dateOfBirth=Sat May 11 20:53:51 CEST 2002, faculty='Thunderbird', course=5, group=2093}
+Student{studentId=164, name='Lewis', lastName='Douglas', dateOfBirth=Tue Mar 20 03:42:07 CET 1962, faculty='Wampus', course=1, group=2093}
+Student{studentId=175, name='Dick', lastName='Blick', dateOfBirth=Fri Oct 04 09:35:12 CET 1957, faculty='Wampus', course=4, group=2093}
+--------------------------------
+
+Process finished with exit code 0
