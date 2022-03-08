@@ -1,0 +1,87 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=55432:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\at\ta_training-java\target\classes;C:\Users\Yulia\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\Yulia\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Yulia\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\Yulia\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\Yulia\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar com.epam.training.student_iulia_iasoveeva.java_classes.main_task_2.Runner
+Task a
+-----------------------------------------
+Customer{Id=35, Name='Aurelio', LastName='Altenwerth', address='Suite 064 6486 Moore Key, Port Gregland, NJ 56618', cardNumber=1228-1221-1221-1431, bankAccount=AE763655408658576464309}
+Customer{Id=48, Name='Vonda', LastName='Beahan', address='3936 Brittny Isle, West Brooksport, WA 16132-2829', cardNumber=1228-1221-1221-1431, bankAccount=KZ15519VF0cpfskD83cz}
+Customer{Id=49, Name='Bell', LastName='Braun', address='45551 Elease Pass, Lebsackburgh, VT 92150', cardNumber=1234-2121-1221-1211, bankAccount=ME19470307880333767046}
+Customer{Id=24, Name='Ria', LastName='Dach', address='77608 Doyle Spurs, New Raymouth, CO 70753-8660', cardNumber=1211-1221-1234-2201, bankAccount=IE15DNSK03835236218630}
+Customer{Id=40, Name='Marcelino', LastName='Davis', address='4229 Mohr Points, West Carter, AZ 77509-9606', cardNumber=1234-2121-1221-1211, bankAccount=SM23L4080041355Bc9HW9UWBV6g}
+Customer{Id=0, Name='Alfonso', LastName='Dickinson', address='4395 Bashirian Valleys, South Mohammed, WA 81713', cardNumber=1212-1221-1121-1234, bankAccount=PT14763886017970228581744}
+Customer{Id=13, Name='Manda', LastName='Douglas', address='Suite 825 02582 Noel Hill, Angelenafurt, IA 41068-5399', cardNumber=1212-1221-1121-1234, bankAccount=PT10395298351612499190258}
+Customer{Id=30, Name='Adolfo', LastName='Ernser', address='Suite 636 690 Senger Mews, Langhaven, MN 31324', cardNumber=1211-1221-1234-2201, bankAccount=BG07FJCR4007459p87BNfg}
+Customer{Id=5, Name='Marquis', LastName='Goldner', address='Apt. 867 6417 Delila Haven, South Amada, ME 49604-5078', cardNumber=1212-1221-1121-1234, bankAccount=DO830wn353356740407705570725}
+Customer{Id=6, Name='Fleta', LastName='Halvorson', address='8563 Ward Cape, Gislasonchester, WA 89060-4211', cardNumber=1212-1221-1121-1234, bankAccount=RS08763247847601085996}
+Customer{Id=1, Name='Theo', LastName='Hartmann', address='9531 Gregory Way, DuBuquechester, ID 16842', cardNumber=1228-1221-1221-1431, bankAccount=NO7210364679992}
+Customer{Id=37, Name='Dorsey', LastName='Hessel', address='75873 Mable Points, Lake Hyacinthland, IA 90064-2698', cardNumber=1234-2121-1221-1211, bankAccount=DK4356011305347623}
+Customer{Id=42, Name='Rickie', LastName='Huels', address='Suite 898 12440 Sauer Shoals, Kymview, TN 76448', cardNumber=1234-2121-1221-1211, bankAccount=IT84S6862275040mXunqiEsp4ln}
+Customer{Id=29, Name='Rashad', LastName='Jacobi', address='696 Block Center, East Marjory, DE 80278', cardNumber=1212-1221-1121-1234, bankAccount=IE44BCNG12661187853649}
+Customer{Id=34, Name='Aura', LastName='Jast', address='5724 Alvin Lights, Hauckport, TX 19975', cardNumber=1228-1221-1221-1431, bankAccount=UA7213034843rRu23WBlTdWd6ho7d}
+Customer{Id=20, Name='Eddy', LastName='Kassulke', address='Suite 227 64533 Kautzer Forks, Irvingchester, CA 95828-0667', cardNumber=1211-1221-1234-2201, bankAccount=FI6368744466510014}
+Customer{Id=7, Name='Hubert', LastName='Kessler', address='Apt. 795 44896 Else Shoal, South Julesport, HI 39054-7824', cardNumber=1211-1221-1234-2201, bankAccount=GI35XROEibhszHWq1B51W7c}
+Customer{Id=2, Name='Elza', LastName='Koelpin', address='62244 Jonathon Falls, South Raymon, PA 79854-5725', cardNumber=1228-1221-1221-1431, bankAccount=LI8392727J20hb49wtn9A}
+Customer{Id=15, Name='Brittani', LastName='Koepp', address='Apt. 844 68434 Wisoky Park, Ernserport, MD 95804-5535', cardNumber=1228-1221-1221-1431, bankAccount=TN5167830822995568380665}
+Customer{Id=31, Name='Andy', LastName='Kovacek', address='2997 Wolff Motorway, Melodiburgh, NJ 80463-2530', cardNumber=1211-1221-1234-2201, bankAccount=IS720753106302641036767438}
+Customer{Id=8, Name='Bethanie', LastName='Kozey', address='6858 Kulas Mews, North Edmund, AK 20633-5508', cardNumber=1212-1221-1121-1234, bankAccount=BG67TBME2064043LRqVLX1}
+Customer{Id=46, Name='Dion', LastName='Kub', address='206 Reinger Via, Langfurt, VT 80676-0596', cardNumber=1211-1221-1234-2201, bankAccount=QA67RTPM2tNSoezf4Oe29vFq9APLG}
+Customer{Id=17, Name='Marc', LastName='Langworth', address='588 Dare Rue, Tifanyland, SD 49288-8859', cardNumber=1211-1221-1234-2201, bankAccount=BG78CVRX192424N2uBz7Dw}
+Customer{Id=11, Name='Silvia', LastName='Larson', address='93105 Rayford Divide, North Blanch, OK 62974-7113', cardNumber=1228-1221-1221-1431, bankAccount=LC71DQLRD6kv5LstXKi9amqe3JTFKWIG}
+Customer{Id=23, Name='Terrell', LastName='Leffler', address='Suite 126 481 Spencer Harbor, Vonchester, ID 20843-1478', cardNumber=1211-1221-1234-2201, bankAccount=PT16173007833120720127893}
+Customer{Id=38, Name='Deborah', LastName='Lemke', address='Suite 095 34134 Glover Hill, New Herschel, CA 22510', cardNumber=1212-1221-1121-1234, bankAccount=IL940888260936433488434}
+Customer{Id=28, Name='Loriann', LastName='Lubowitz', address='202 Ritchie Mall, Armandbury, WV 58184-5294', cardNumber=1234-2121-1221-1211, bankAccount=GT29Onzi2gr018pZ9ap6ODIG3pg3}
+Customer{Id=26, Name='Arletha', LastName='Lueilwitz', address='Apt. 937 7600 Chadwick Inlet, Port Loritashire, RI 54203', cardNumber=1211-1221-1234-2201, bankAccount=RS60137556680184480213}
+Customer{Id=32, Name='Brandee', LastName='McClure', address='539 Hayes Rapids, Port Ethanberg, TN 22601', cardNumber=1211-1221-1234-2201, bankAccount=UA44141941RI0oKViGcBr8w6yd8DR}
+Customer{Id=3, Name='Mika', LastName='Medhurst', address='2759 Feil Loop, Vonton, MA 04941', cardNumber=1212-1221-1121-1234, bankAccount=IE75YJRZ46884146421640}
+Customer{Id=4, Name='Donetta', LastName='Mills', address='578 Blanda Neck, Jaclynborough, NM 23383-5575', cardNumber=1234-2121-1221-1211, bankAccount=AL288423383562sg8480hgzdj8p9}
+Customer{Id=12, Name='Viola', LastName='Mitchell', address='Apt. 805 137 Liane Tunnel, Bahringerfurt, NC 94487-6212', cardNumber=1211-1221-1234-2201, bankAccount=KZ858125nj0vRl64BqG0}
+Customer{Id=33, Name='Gale', LastName='Monahan', address='10166 Stokes Mill, North Theronborough, MD 65260', cardNumber=1211-1221-1234-2201, bankAccount=SA306773dX1ktDKzu3xiUcB2}
+Customer{Id=18, Name='Marchelle', LastName='Muller', address='9345 Moore Underpass, Herbton, SD 52138', cardNumber=1228-1221-1221-1431, bankAccount=AD5291650788LsW1Lo92q8NQ}
+Customer{Id=22, Name='Gerda', LastName='O'Kon', address='995 Hahn Center, North Elliot, FL 46972-9296', cardNumber=1212-1221-1121-1234, bankAccount=LI23992832j5KTLe3VNw0}
+Customer{Id=45, Name='Ciara', LastName='O'Reilly', address='8748 Eric Ford, New Fredburgh, MD 89005', cardNumber=1211-1221-1234-2201, bankAccount=FR779677816490FmovrX6f4WD60}
+Customer{Id=16, Name='Burton', LastName='Rau', address='Suite 050 4564 Ratke Camp, West Shizuko, MT 87284', cardNumber=1211-1221-1234-2201, bankAccount=LU310905484Ff05oKTOj}
+Customer{Id=9, Name='Scot', LastName='Reinger', address='7455 Vincenzo Walk, Ronnyton, SD 57852', cardNumber=1211-1221-1234-2201, bankAccount=SK2286416057540604510950}
+Customer{Id=27, Name='Marco', LastName='Rogahn', address='Apt. 252 32839 Bauch River, Arthurside, CA 84881-0079', cardNumber=1234-2121-1221-1211, bankAccount=HR7151574764407169844}
+Customer{Id=36, Name='Bruna', LastName='Satterfield', address='626 Simonis Parkway, Gorczanyburgh, TN 97573-9272', cardNumber=1211-1221-1234-2201, bankAccount=CH50713378nU4U2KV350o}
+Customer{Id=19, Name='Vida', LastName='Schultz', address='21879 Frances Rest, West Kristle, AR 26636', cardNumber=1234-2121-1221-1211, bankAccount=LT291307720828060725}
+Customer{Id=21, Name='Valentine', LastName='Stiedemann', address='20846 Shawn View, Labadieton, MD 23096-5487', cardNumber=1212-1221-1121-1234, bankAccount=GR906293450151iIqK3bV60rGx2}
+Customer{Id=47, Name='Forrest', LastName='Torp', address='Apt. 637 5411 Stroman Villages, New Rolandhaven, MS 19950', cardNumber=1234-2121-1221-1211, bankAccount=GB05LWXV49938240150289}
+Customer{Id=10, Name='Oralia', LastName='Towne', address='Apt. 278 843 Langosh Tunnel, Lake Ray, WA 82744', cardNumber=1234-2121-1221-1211, bankAccount=PL90334160951043061805626506}
+Customer{Id=43, Name='Bernie', LastName='Vandervort', address='Apt. 497 7832 Ritchie Flat, Chariseton, NJ 42215-3568', cardNumber=1211-1221-1234-2201, bankAccount=MT15RGYD77176xRELzuLtc6eu6448Xy}
+Customer{Id=41, Name='Vince', LastName='Weimann', address='8672 Henriette Creek, West Ramon, WY 13971', cardNumber=1234-2121-1221-1211, bankAccount=MK27344mq7Uk3fQsU86}
+Customer{Id=44, Name='Shayla', LastName='Witting', address='586 Lubowitz Court, Port Annabell, TN 69891', cardNumber=1234-2121-1221-1211, bankAccount=KW72QDZU217za02g08p50VTCh66CsN}
+Customer{Id=14, Name='Tiara', LastName='Wiza', address='65820 Claudette Vista, West Jacquiline, PA 39890-5729', cardNumber=1212-1221-1121-1234, bankAccount=MU42ZTLO7760774187272029891PPD}
+Customer{Id=39, Name='Clifford', LastName='Wuckert', address='Suite 985 753 Denis Wells, East Lilliamberg, HI 01958-7120', cardNumber=1234-2121-1221-1211, bankAccount=MD70dS647y3C9g5o9vKPs7B2}
+Customer{Id=25, Name='Jarvis', LastName='Zieme', address='Suite 090 2634 Rolf Road, Elsieville, KY 71843-2980', cardNumber=1234-2121-1221-1211, bankAccount=ST04604206723863875341057}
+-----------------------------------------
+Task b
+-----------------------------------------
+Customer{Id=0, Name='Alfonso', LastName='Dickinson', address='4395 Bashirian Valleys, South Mohammed, WA 81713', cardNumber=1212-1221-1121-1234, bankAccount=PT14763886017970228581744}
+Customer{Id=3, Name='Mika', LastName='Medhurst', address='2759 Feil Loop, Vonton, MA 04941', cardNumber=1212-1221-1121-1234, bankAccount=IE75YJRZ46884146421640}
+Customer{Id=5, Name='Marquis', LastName='Goldner', address='Apt. 867 6417 Delila Haven, South Amada, ME 49604-5078', cardNumber=1212-1221-1121-1234, bankAccount=DO830wn353356740407705570725}
+Customer{Id=6, Name='Fleta', LastName='Halvorson', address='8563 Ward Cape, Gislasonchester, WA 89060-4211', cardNumber=1212-1221-1121-1234, bankAccount=RS08763247847601085996}
+Customer{Id=7, Name='Hubert', LastName='Kessler', address='Apt. 795 44896 Else Shoal, South Julesport, HI 39054-7824', cardNumber=1211-1221-1234-2201, bankAccount=GI35XROEibhszHWq1B51W7c}
+Customer{Id=8, Name='Bethanie', LastName='Kozey', address='6858 Kulas Mews, North Edmund, AK 20633-5508', cardNumber=1212-1221-1121-1234, bankAccount=BG67TBME2064043LRqVLX1}
+Customer{Id=9, Name='Scot', LastName='Reinger', address='7455 Vincenzo Walk, Ronnyton, SD 57852', cardNumber=1211-1221-1234-2201, bankAccount=SK2286416057540604510950}
+Customer{Id=12, Name='Viola', LastName='Mitchell', address='Apt. 805 137 Liane Tunnel, Bahringerfurt, NC 94487-6212', cardNumber=1211-1221-1234-2201, bankAccount=KZ858125nj0vRl64BqG0}
+Customer{Id=13, Name='Manda', LastName='Douglas', address='Suite 825 02582 Noel Hill, Angelenafurt, IA 41068-5399', cardNumber=1212-1221-1121-1234, bankAccount=PT10395298351612499190258}
+Customer{Id=14, Name='Tiara', LastName='Wiza', address='65820 Claudette Vista, West Jacquiline, PA 39890-5729', cardNumber=1212-1221-1121-1234, bankAccount=MU42ZTLO7760774187272029891PPD}
+Customer{Id=16, Name='Burton', LastName='Rau', address='Suite 050 4564 Ratke Camp, West Shizuko, MT 87284', cardNumber=1211-1221-1234-2201, bankAccount=LU310905484Ff05oKTOj}
+Customer{Id=17, Name='Marc', LastName='Langworth', address='588 Dare Rue, Tifanyland, SD 49288-8859', cardNumber=1211-1221-1234-2201, bankAccount=BG78CVRX192424N2uBz7Dw}
+Customer{Id=20, Name='Eddy', LastName='Kassulke', address='Suite 227 64533 Kautzer Forks, Irvingchester, CA 95828-0667', cardNumber=1211-1221-1234-2201, bankAccount=FI6368744466510014}
+Customer{Id=21, Name='Valentine', LastName='Stiedemann', address='20846 Shawn View, Labadieton, MD 23096-5487', cardNumber=1212-1221-1121-1234, bankAccount=GR906293450151iIqK3bV60rGx2}
+Customer{Id=22, Name='Gerda', LastName='O'Kon', address='995 Hahn Center, North Elliot, FL 46972-9296', cardNumber=1212-1221-1121-1234, bankAccount=LI23992832j5KTLe3VNw0}
+Customer{Id=23, Name='Terrell', LastName='Leffler', address='Suite 126 481 Spencer Harbor, Vonchester, ID 20843-1478', cardNumber=1211-1221-1234-2201, bankAccount=PT16173007833120720127893}
+Customer{Id=24, Name='Ria', LastName='Dach', address='77608 Doyle Spurs, New Raymouth, CO 70753-8660', cardNumber=1211-1221-1234-2201, bankAccount=IE15DNSK03835236218630}
+Customer{Id=26, Name='Arletha', LastName='Lueilwitz', address='Apt. 937 7600 Chadwick Inlet, Port Loritashire, RI 54203', cardNumber=1211-1221-1234-2201, bankAccount=RS60137556680184480213}
+Customer{Id=29, Name='Rashad', LastName='Jacobi', address='696 Block Center, East Marjory, DE 80278', cardNumber=1212-1221-1121-1234, bankAccount=IE44BCNG12661187853649}
+Customer{Id=30, Name='Adolfo', LastName='Ernser', address='Suite 636 690 Senger Mews, Langhaven, MN 31324', cardNumber=1211-1221-1234-2201, bankAccount=BG07FJCR4007459p87BNfg}
+Customer{Id=31, Name='Andy', LastName='Kovacek', address='2997 Wolff Motorway, Melodiburgh, NJ 80463-2530', cardNumber=1211-1221-1234-2201, bankAccount=IS720753106302641036767438}
+Customer{Id=32, Name='Brandee', LastName='McClure', address='539 Hayes Rapids, Port Ethanberg, TN 22601', cardNumber=1211-1221-1234-2201, bankAccount=UA44141941RI0oKViGcBr8w6yd8DR}
+Customer{Id=33, Name='Gale', LastName='Monahan', address='10166 Stokes Mill, North Theronborough, MD 65260', cardNumber=1211-1221-1234-2201, bankAccount=SA306773dX1ktDKzu3xiUcB2}
+Customer{Id=36, Name='Bruna', LastName='Satterfield', address='626 Simonis Parkway, Gorczanyburgh, TN 97573-9272', cardNumber=1211-1221-1234-2201, bankAccount=CH50713378nU4U2KV350o}
+Customer{Id=38, Name='Deborah', LastName='Lemke', address='Suite 095 34134 Glover Hill, New Herschel, CA 22510', cardNumber=1212-1221-1121-1234, bankAccount=IL940888260936433488434}
+Customer{Id=43, Name='Bernie', LastName='Vandervort', address='Apt. 497 7832 Ritchie Flat, Chariseton, NJ 42215-3568', cardNumber=1211-1221-1234-2201, bankAccount=MT15RGYD77176xRELzuLtc6eu6448Xy}
+Customer{Id=45, Name='Ciara', LastName='O'Reilly', address='8748 Eric Ford, New Fredburgh, MD 89005', cardNumber=1211-1221-1234-2201, bankAccount=FR779677816490FmovrX6f4WD60}
+Customer{Id=46, Name='Dion', LastName='Kub', address='206 Reinger Via, Langfurt, VT 80676-0596', cardNumber=1211-1221-1234-2201, bankAccount=QA67RTPM2tNSoezf4Oe29vFq9APLG}
+-----------------------------------------
+
+Process finished with exit code 0
