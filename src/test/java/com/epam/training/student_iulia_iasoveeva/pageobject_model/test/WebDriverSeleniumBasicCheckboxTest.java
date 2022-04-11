@@ -10,14 +10,15 @@ public class WebDriverSeleniumBasicCheckboxTest extends TestSetUp {
 
     @Test(description = "All 4 checkboxes are checked ")
     public void checkAreaAllCheckboxesAreChecked() {
-      SeleniumDemoBasicCheckbox page =  new SeleniumDemoBasicCheckbox(driver)
+        SeleniumDemoBasicCheckbox page = new SeleniumDemoBasicCheckbox(driver)
                 .openPage()
                 .clickRadioButtonOption1()
                 .clickRadioButtonOption2()
                 .clickRadioButtonOption3()
                 .clickRadioButtonOption4();
-        Assert.assertEquals(page.getValueCheckArea(),CHECK_AREA_VALUE_Uncheck);
+        Assert.assertEquals(page.getValueCheckArea(), CHECK_AREA_VALUE_Uncheck);
     }
+
     @Test
     public void checkAreaSomeCheckboxesAreChecked() {
         SeleniumDemoBasicCheckbox page = new SeleniumDemoBasicCheckbox(driver)

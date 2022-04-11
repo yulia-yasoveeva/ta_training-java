@@ -21,7 +21,7 @@ public class Product {
     }
     //used for PUT request
 
-    public Product (Integer id,String name, String description, Double price, Integer category_id) {
+    public Product(Integer id, String name, String description, Double price, Integer category_id) {
         setId(id);
         setName(name);
         setDescription(description);

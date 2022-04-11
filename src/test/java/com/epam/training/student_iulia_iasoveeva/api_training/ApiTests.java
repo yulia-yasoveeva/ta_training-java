@@ -1,20 +1,22 @@
 package com.epam.training.student_iulia_iasoveeva.api_training;
 
 import org.junit.Test;
+
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
 public class ApiTests {
     @Test
-    public void getCategories(){
+    public void getCategories() {
         String endpoint = "http://localhost:8888/api_testing/category/read.php";
         var response = given().when().get(endpoint).then();
         response.log().body();
     }
+
     @Test
-    public void getProduct(){
+    public void getProduct() {
         String endpoint = "http://localhost:8888/api_testing/product/read_one.php";
-       // var response =
+        // var response =
 //                given().
 //                        queryParam("id", 2)
 //                        .when()
@@ -22,7 +24,7 @@ public class ApiTests {
 //                        .then();
 //        response.log().body();
         given()
-                .queryParam("id",2)
+                .queryParam("id", 2)
                 .when()
                 .get(endpoint)
                 .then()
@@ -30,8 +32,9 @@ public class ApiTests {
                 .body("id", equalTo("2"))
                 .body("name", equalTo("Water bottle"));
     }
+
     @Test
-    public void createProduct(){
+    public void createProduct() {
         String endpoint = "http://localhost:8888/api_testing/product/create.php";
         String body = """
                 {"name": "Water bottle",
@@ -43,8 +46,9 @@ public class ApiTests {
         var response = given().body(body).when().post(endpoint).then();
         response.log().body();
     }
+
     @Test
-    public void updateProducts(){
+    public void updateProducts() {
         String endpoint = "http://localhost:8888/api_testing/product/update.php";
         String body = """
                 {"id": 19,
@@ -57,8 +61,9 @@ public class ApiTests {
         var response = given().body(body).when().put(endpoint).then();
         response.log().body();
     }
+
     @Test
-    public void deleteProduct(){
+    public void deleteProduct() {
         String endpoint = "http://localhost:8888/api_testing/product/delete.php";
         String body = """
                 {"id": 19,
@@ -67,8 +72,9 @@ public class ApiTests {
         var response = given().body(body).when().delete(endpoint).then();
         response.log().body();
     }
+
     @Test
-    public void createSerializedProduct(){
+    public void createSerializedProduct() {
         String endpoint = "http://localhost:8888/api_testing/product/create.php";
         Product product = new Product(
                 "Water Bottle",
