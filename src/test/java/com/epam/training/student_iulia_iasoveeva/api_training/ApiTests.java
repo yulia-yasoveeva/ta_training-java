@@ -2,7 +2,9 @@ package com.epam.training.student_iulia_iasoveeva.api_training;
 
 import org.junit.Test;
 import static io.restassured.RestAssured.given;
+import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.samePropertyValuesAs;
 
 public class ApiTests {
     @Test
@@ -76,5 +78,22 @@ public class ApiTests {
                 12.0,
                 3);
         var response = given().body(product).when().post(endpoint).then();
+    }
+
+    @Test
+    public void getDeSerializedProduct(){
+        String endpoint = "http://localhost:8888/api_testing/product/read_one.php";
+        Product expectedProduct = new Product(
+                "Cola",
+                "Training trank",
+                14.0,
+                5
+        );
+        Product actualProduct = given().
+                queryParam("category_id","5")
+                .when()
+                .get(endpoint)
+                .as(Product.class);
+        assertThat(actualProduct, samePropertyValuesAs(expectedProduct));
     }
 }
